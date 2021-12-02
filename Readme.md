@@ -1,4 +1,4 @@
-Projeto Integrador do Grupo 1
+# Projeto Integrador do Grupo 1 da turma de desenvolvimento web Full Stack Node.js da Digital House
 
 1. Clonar o projeto com o comando
 git clone https://github.com/rdmoedas/projeto-grupo1.git
